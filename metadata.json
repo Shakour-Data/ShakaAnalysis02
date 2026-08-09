@@ -1,0 +1,6 @@
+{
+  "name": "Shaka Analysis",
+  "description": "Financial market analysis and dashboard system for TSE stock market data",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
